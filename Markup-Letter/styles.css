@@ -1,0 +1,13 @@
+.sender{
+    width: 100%;
+    float: right;
+    text-align: end;
+}
+.reciever{
+    width: 100%;
+    float: right;
+    margin-bottom: 40px;
+}
+body{
+    font-size: larger;
+}
