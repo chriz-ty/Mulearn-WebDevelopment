@@ -1,0 +1,33 @@
+body{
+    font-family: "Gill Sans", sans-serif;
+    margin-left: 70px;
+}
+
+.header{
+    font-family: Georgia, serif;
+    font-weight: bold;
+    color: rgb(245, 68, 189);
+}
+
+h1{
+    border-bottom: 10px dotted purple;
+}
+
+.subheading{
+    color: grey;
+    margin-top: 30px;
+}
+
+.block{
+    background-color: rgb(228, 227, 227);
+    border: 5px solid purple;
+}
+
+.email{
+    color: green;
+    text-decoration: none;
+}
+
+a{
+    color: orange;
+}
